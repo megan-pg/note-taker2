@@ -1,0 +1,24 @@
+{
+  "name": "note-taker2",
+  "version": "1.0.0",
+  "description": "The goal of this app is to create and save notes, view previously saved notes and delete previously saved notes. Built With node.js and Express.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megan-pg/note-taker2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megan-pg/note-taker2/issues"
+  },
+  "homepage": "https://github.com/megan-pg/note-taker2#readme"
+}
