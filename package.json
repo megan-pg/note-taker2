@@ -4,7 +4,7 @@
   "description": "The goal of this app is to create and save notes, view previously saved notes and delete previously saved notes. Built With node.js and Express.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
